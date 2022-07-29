@@ -1,12 +1,12 @@
 ---
 title: "Linux LVM 설정"
-date: 2022-07-29T15:34:30-04:00
+date: 2022-07-29T22:54:00-00:00
 categories:
   - Linux
 tags:
   - Linux
   - LVM
-  - 
+  - Storage
 ---
 
 # LVM
